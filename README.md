@@ -26,7 +26,7 @@ Common Sense.
 
 # Role of an Imposter
 1. Imposter does not get any word.
-2. Imposter will have to blend in and your their psychic.
+2. Imposter will have to blend in using their psychic power (So sigma).
 3. Try to avoid suspicion.
 4. Win the game.
 
